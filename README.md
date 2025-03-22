@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Panda-Auth
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working on Nothing
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: Discord ``riot_.``
 
 ## My languages
