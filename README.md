@@ -1,8 +1,8 @@
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7500D2&width=435&lines=Profile" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7500D2&width=435&lines=About+me!" alt="Typing SVG" width="600"/>
+</a>
 
-# STATUS
+## STATUS
 `Currently learning C++ using Visual Studio Community 2022`
 
 ## My languages
